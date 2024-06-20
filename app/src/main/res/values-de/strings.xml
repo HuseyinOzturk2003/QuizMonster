@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Main Activity
+    <string name="app_name">Quiz Wizard</string>
+    <string name="langbtn">Sprache ändern</string>
+    <string name="startButton">Beginnen</string>
+    <string name="moto">Mal sehen, ob du das Zeug dazu hast</string>
+
+    //Language Menu
+    <string name="currentLanguage">Deutsch</string>
+    <string name="goBtn">Geh</string>
+
+   //Quiz
+    <string name="nextBtn">Nachste</string>
+    <string name="finishBtn">Fertig</string>
+
+    //QuizWrong
+    <string name="finishBtnWrong">Fertig</string>
+    <string name="nextBtnWrong">Nachste</string>
+
+    //Results Menu
+    <string name="playAgainBtn">Nochmal Abspielen</string>
+    <string name="repeatWrongAnswersButton">Falsche Antworten</string>
+    <string name="menuBtn2">Menu</string>
+    <string name="shareBtn">Teilen</string>
+
+</resources>

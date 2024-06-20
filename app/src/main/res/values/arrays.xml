@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--I attempted to translate the questions using
+    <string-array name="questions";
+    but did not work, couldnt find a viable alternative method-->
+
+</resources>

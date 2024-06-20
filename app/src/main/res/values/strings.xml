@@ -1,0 +1,30 @@
+<resources>
+
+    //Main activity
+    <string name="app_name">Quiz Wizard</string>
+    <string name="langbtn">Change Language</string>
+    <string name="startButton">START</string>
+    <string name="moto">Let us see what you got</string>
+
+    //Language Menu
+    <string name="currentLanguage">English</string>
+    <string name="goBtn">Go</string>
+
+
+    //Quiz
+    <string name="nextBtn">Next</string>
+    <string name="finishBtn">Finish</string>
+
+    //QuizWrong
+    <string name="finishBtnWrong">Finish</string>
+    <string name="nextBtnWrong">Next</string>
+
+    //Results Menu
+    <string name="playAgainBtn">Play Again</string>
+    <string name="repeatWrongAnswersButton">Repeat Wrong Answers</string>
+    <string name="menuBtn2">Menu</string>
+    <string name="shareBtn">Share</string>
+
+
+
+</resources>
